@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https://rain120.github.io/study-notes">Study Notes</a>
+  Study Notes
 </h1>
 
 - 启动本地服务  docsify serve
@@ -185,7 +185,7 @@ Daily study notes, some useful <a href="https://rain120.github.io/study-notes/#/
   - [轻松追剧系列](resources/shows.md)
   - [歌曲下载](resources/music-download.md)
   - [其他](resources/others.md)
-- [About Me](profile/profile.md) -->
+<!-- - [About Me](profile/profile.md) --> -->
 
 <!-- About Me -->
 <!-- ---
