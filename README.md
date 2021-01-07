@@ -5,7 +5,7 @@
 
 - 启动本地服务  docsify serve
 
-<div align="center">
+<!-- <div align="center">
 Daily study notes, some useful <a href="https://rain120.github.io/study-notes/#/resources">bookmarking resources</a>, and <a href="https://rain120.github.io/study-notes/#/resources">resources</a> for friends.
 </div>
 
@@ -15,7 +15,7 @@ Daily study notes, some useful <a href="https://rain120.github.io/study-notes/#/
 
 <!-- 学习笔记 -->
 
-- [我的四象限](notes/plans.md)
+<!-- - [我的四象限](notes/plans.md)
 - [知识图谱](knowledge-map/guide.md)
 - [前端知识图谱](knowledge-map/fe_knowledge_map.md)
   - [前端工程师学习路径](knowledge-map/feer.md)
@@ -169,7 +169,7 @@ Daily study notes, some useful <a href="https://rain120.github.io/study-notes/#/
       - [Iterm2 & oh my zsh 配置终端环境](notes/iterm2/iterm2+zsh.md)
     - [前端开发 Debugger相关](notes/debugger/guide.md)
       - [Mac 如何使用其他环境的浏览器](notes/debugger/mac-how-to-use-other-env-browsers.md)
-      - [浏览器的用户代理字符串(User Agent)](notes/debugger/browser-user-agent.md)
+      - [浏览器的用户代理字符串(User Agent)](notes/debugger/browser-user-agent.md) -->
 
 <!--  资源集合 -->
 
@@ -185,7 +185,7 @@ Daily study notes, some useful <a href="https://rain120.github.io/study-notes/#/
   - [轻松追剧系列](resources/shows.md)
   - [歌曲下载](resources/music-download.md)
   - [其他](resources/others.md)
-- [About Me](profile/profile.md)
+- [About Me](profile/profile.md) -->
 
 <!-- About Me -->
 <!-- ---
